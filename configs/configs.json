@@ -1,0 +1,19 @@
+{
+  "dbpath":"db",
+  "microservice":{
+    "title":"boxun",
+    "domain":"www.boxun.net",
+    "url":[
+      "http://www.boxun.net/",
+      "http://www.boxun.net/news",
+      "http://www.boxun.net/features",
+      "http://www.boxun.net/op-ed",
+      "http://www.boxun.net/ecosystem",
+      "http://www.boxun.net/influence-impact",
+      "http://www.boxun.net/tibet-facts"
+    ],
+    "addr":":20018",
+    "timeout":"1s",
+    "heartbeat":"12h"
+  }
+}
